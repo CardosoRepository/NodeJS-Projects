@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor e sistema operacional
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+build/
+out/
+coverage/
+.cache/
+.next/
+.nuxt/
+.eslintcache
+
+# Arquivos temporários
+*.swp
+*.bak
+*.tmp
+*.temp
+*.pid
+
+# Logs
+logs/
+*.log
